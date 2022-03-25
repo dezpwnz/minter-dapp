@@ -8,7 +8,7 @@
   --font-primary: 'Roboto Condensed', sans-serif;
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
-  --bg-color: #1d1d1d;
+  --bg-color: #efff58;
   --bg-color-transparent: #00163f80;
   --font-color: #1d1d1d;
   --btn-bg-color: #d3145a;
@@ -46,7 +46,7 @@ body {
 /* HEADER */
 
 header {
-  background-color: var(--btn-text-color);
+  background-color: var(--accent-color);
   box-shadow: var(--header-shadow);
 }
 
